@@ -4,7 +4,7 @@ This is an extension that will add 'Search using Google Search' to the Edge cont
 ### Installation
 1. Download and extract zip.
 2. Go to the Edge extensions settings page.
-3. Click on "Load unpacked" and select the extracted root folder
+3. Click on `Load unpacked` and select the extracted root folder
 
 ![Screenshot](/screenshot.png)
 
