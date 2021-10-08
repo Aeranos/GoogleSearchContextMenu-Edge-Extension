@@ -21,8 +21,8 @@ An extension for Edge browser that adds 'Search using Google Search' to the brow
 
 
 [patreon-badge]: https://img.shields.io/badge/Support-Become%20a%20Patreon!-red.svg
-[patreon]: https://www.patreon.com/andy_fazulus
+[patreon]: https://www.patreon.com/join/andy_fazulus?
 [liberapay-badge]: https://img.shields.io/badge/Liberapay-Donate-%23f6c915.svg
-[liberapay]: https://liberapay.com/andy_fazulus
+[liberapay]: https://liberapay.com/andy_fazulus/donate
 [kofi-badge]: https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee!-%2346b798.svg
 [kofi]: https://ko-fi.com/andy_fazulus
