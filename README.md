@@ -18,9 +18,7 @@
 
 Adds 'Search using Google Search' to Microsoft Edge context menu whenever any text is selected in the browser.
 
-![Screenshot](/screenshot.png)
-
-
+![image](https://user-images.githubusercontent.com/53261024/136620632-097339c3-54d3-4f57-a3b3-cf2fb77378f4.png)
 
 
 
