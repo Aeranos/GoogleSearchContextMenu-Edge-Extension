@@ -1,10 +1,5 @@
-# Google Search Context Menu for Edge Browser
 
-An extension for Edge browser that adds 'Search using Google Search' to the browser's context menu whenever any text is selected in the browser.
-
-![Screenshot](/screenshot.png)
-
-## ❤ Support ❤
+### ❤ Support ❤
 
 [![Patreon][patreon-badge]][patreon]
 [![Liberapay][liberapay-badge]][liberapay]
@@ -18,6 +13,15 @@ An extension for Edge browser that adds 'Search using Google Search' to the brow
 1. Download and extract zip.
 2. Go to the Edge extensions settings page.
 3. Click on `Load unpacked` and select the extracted root folder
+
+## Google Search Context Menu for Edge Browser
+
+An extension for Edge browser that adds 'Search using Google Search' to the browser's context menu whenever any text is selected in the browser.
+
+![Screenshot](/screenshot.png)
+
+
+
 
 
 [patreon-badge]: https://img.shields.io/badge/Support-Become%20a%20Patreon!-red.svg
