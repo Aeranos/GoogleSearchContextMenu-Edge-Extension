@@ -14,7 +14,7 @@
 2. Go to the Edge extensions settings page.
 3. Click on `Load unpacked` and select the extracted root folder
 
-# Google Search Context Menu for <br/> Microsoft Edge Extension
+# Google Search Context Menu for Microsoft Edge Extension
 
 An extension for Edge browser that adds 'Search using Google Search' to the browser's context menu whenever any text is selected in the browser.
 
